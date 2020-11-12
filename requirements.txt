@@ -1,7 +1,7 @@
 websockets==6.0
 discord
 discord.py[voice]
-gtts==2.1.2
+gtts
 PyGithub
 pyssml
 gspread
